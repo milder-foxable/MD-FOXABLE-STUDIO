@@ -1,0 +1,8 @@
+{
+  "name": "MD FOXABLE STUDIO",
+  "description": "Creative design studio offering Graphic Design, Branding, and Web Design services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
